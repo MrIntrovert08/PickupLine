@@ -33,7 +33,7 @@ let flirt = [
   "I'm learning about important dates in history, wanna be one of them?",
   "They say dating is a numbers game, so can I get yours?",
   "When I text you good morning tomorrow, what number should I text?",
-  "Hi, my name is [your name], but you can call me tomorrow.",
+  "Hi, my name is Pramod, but you can call me tomorrow.",
   "Can I show your profile to my friends to prove that angels really do exist?",
   "123456789. The only number I don't see here is yours.",
   "Do you have Instagram? My parents always told me to follow my dreams.",
